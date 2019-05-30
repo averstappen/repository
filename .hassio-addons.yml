@@ -9,4 +9,3 @@ addons:
     repository: averstappen/addon-nginx-proxy-manager
     target: proxy-manager
     image: hassioaddons/nginxproxymanager-{arch}
-    
