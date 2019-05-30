@@ -94,7 +94,7 @@ addons:
     target: node-red
     image: hassioaddons/node-red-{arch}
   nginxproxymanager:
-    repository: hassio-addons/addon-nginx-proxy-manager
+    repository: averstappen/addon-nginx-proxy-manager
     target: proxy-manager
     image: hassioaddons/nginxproxymanager-{arch}
   phlex:
